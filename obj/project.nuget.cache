@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X+xbG/JESPR6/hsFT6d/5XVOl5sQvBTDBBVRbqPwWo6whzLs7KD+cKL5Rak2lD5sov1vMGLXNi9/Sa3BdjXFMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gma27\\Visual Studio\\HW1\\HW1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gma27\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\gma27\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
